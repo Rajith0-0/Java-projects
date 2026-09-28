@@ -1,0 +1,15 @@
+public class Expop {
+public static void main(Sting[] args) {
+ 
+int a = 12;
+int b = 14;
+{
+if ( a > b );
+printf("even");
+
+} 
+else 
+printf("odd")
+
+}
+}
